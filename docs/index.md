@@ -31,3 +31,7 @@ Premium/Cracked Mode Supported Versions:<br>
 • 1.13.X<br>
 • 1.14.X<br>
 • 1.15.X<br>
+
+## Contribute
+You can contribute with the documentation [Here](https://github.com/SuperAuth/Docs).<br>
+You can contribute with the translations [Here](https://github.com/TheProgramSrc/PluginsResources/tree/master/superauth).

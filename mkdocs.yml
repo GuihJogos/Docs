@@ -2,4 +2,7 @@ site_name: SuperAuth
 nav:
   - Home: index.md
   - Commands: commands.md
+  - Permissions: permissions.md
+  - Config File: configfile.md
+  - In-Game GUI: gui.md
 theme: readthedocs
