@@ -2,7 +2,7 @@ This is the default ConfigFile:
 
 ```YAML
 Prefix: '&9SuperAuth»&r '
-Language: 'en_US'
+Language: 'pt_BR'
 DialogCloseWord: 'close'
 TranslationAutoDownload: true
 Updater:
@@ -17,8 +17,8 @@ AntiThief:
   PreventLoginFromOtherIP: true
 AutoLoginPremium: true
 AfterAuth:
-- 'msg:&6Welcome &5{Player}&7!'
-- 'console:say Hello {DisplayName}!'
+- 'msg:&6Bem Vindo &5{Player}&7!'
+- 'console:say Ola {DisplayName}!'
 - 'player:kit noob'
 - 'server:hub'
 ```
